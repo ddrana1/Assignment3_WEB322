@@ -1,3 +1,15 @@
+/*******************************************************************************
+* WEB322 – Assignment 04
+*
+* I declare that this assignment is my own work in accordance with Seneca's
+* Academic Integrity Policy:
+*
+* https://www.senecacollege.ca/about/policies/academic-integrity-policy.html
+*
+* Name: Divya Devendrasinh Rana student ID: 100681477 Date: November 10th 2023
+*
+********************************************************************************/
+
 const setData = require("../data/setData");
 const themeData = require("../data/themeData");
 
